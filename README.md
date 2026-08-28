@@ -1,8 +1,8 @@
-# Expense Tracker
+# 💰Expense Tracker
 
 A simple web-based Expense Tracker built using PHP, MySQL, HTML and CSS.
 
-## Features
+## ✨Features
 
 - Add new expenses
 - View all expenses
@@ -12,7 +12,7 @@ A simple web-based Expense Tracker built using PHP, MySQL, HTML and CSS.
 - Calculate total expenses
 - Store expense data in MySQL database
 
-## Technologies Used
+## ⚙️Technologies Used
 
 - PHP
 - MySQL
@@ -20,14 +20,14 @@ A simple web-based Expense Tracker built using PHP, MySQL, HTML and CSS.
 - CSS
 - XAMPP
 
-## Project Files
+## 📂Project Files
 
 - index.php - Main expense tracker page
 - edit.php - Edit existing expenses
 - delete.php - Delete expenses
 - README.md - Project documentation
 
-## How to Run
+## 🚀How to Run
 
 1. Install XAMPP.
 2. Start Apache and MySQL.
@@ -37,6 +37,6 @@ A simple web-based Expense Tracker built using PHP, MySQL, HTML and CSS.
 
 http://localhost/expense%20tracker/
 
-## Project Purpose
+## 🎯Project Purpose
 
 This project was developed as a BCA academic project to learn PHP, MySQL, CRUD operations, and database integration.
