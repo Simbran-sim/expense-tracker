@@ -1,18 +1,18 @@
-# 💰Expense Tracker
+# 💰 Expense Tracker
 
 A simple web-based Expense Tracker built using PHP, MySQL, HTML and CSS.
 
-## ✨Features
+## ✨ Features
 
-- Add new expenses
-- View all expenses
-- Edit expenses
-- Delete expenses
-- Category-wise expense summary
-- Calculate total expenses
-- Store expense data in MySQL database
+- ➕ Add new expenses
+- 👀 View all expenses
+- ✏️ Edit expenses
+- 🗑️ Delete expenses
+- 📊 Category-wise expense summary
+- 💰 Calculate total expenses
+- 🗄️ Store expense data in MySQL database
 
-## ⚙️Technologies Used
+## 🛠️ Technologies Used
 
 - PHP
 - MySQL
@@ -20,23 +20,22 @@ A simple web-based Expense Tracker built using PHP, MySQL, HTML and CSS.
 - CSS
 - XAMPP
 
-## 📂Project Files
+## 🚀 How to Run
 
-- index.php - Main expense tracker page
-- edit.php - Edit existing expenses
-- delete.php - Delete expenses
-- README.md - Project documentation
+1. Install XAMPP on your computer.
+2. Start Apache and MySQL from the XAMPP Control Panel.
+3. Copy the project folder into the `htdocs` folder.
+4. Create a MySQL database using phpMyAdmin.
+5. Import the required database table.
+6. Open the project in your browser using:
+   `http://localhost/expense-tracker/`
 
-## 🚀How to Run
+## 📌 Project Description
 
-1. Install XAMPP.
-2. Start Apache and MySQL.
-3. Place the project folder inside the htdocs folder.
-4. Create the expenses database and table using phpMyAdmin.
-5. Open the following URL in your browser:
+This project is designed to help users record, manage and track their daily expenses. It provides basic CRUD operations and stores expense information in a MySQL database.
 
-http://localhost/expense%20tracker/
+## 👩‍💻 Author
 
-## 🎯Project Purpose
+**Simbran**
 
-This project was developed as a BCA academic project to learn PHP, MySQL, CRUD operations, and database integration.
+GitHub: [Simbran-sim](https://github.com/Simbran-sim)
