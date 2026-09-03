@@ -28,7 +28,7 @@ A simple web-based Expense Tracker built using PHP, MySQL, HTML and CSS.
 4. Create a MySQL database using phpMyAdmin.
 5. Import the required database table.
 6. Open the project in your browser using:
-   `http://localhost/expense-tracker/`
+   `http://localhost/expense tracker/`
 
 ## 📌 Project Description
 
